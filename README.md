@@ -152,9 +152,9 @@ When Hybrid strains are added, model performance drops sharply. This makes sense
 
 ```text
 compare/
-|-- lab8_cannabis_predictions.ipynb
-|-- lab8_cannabis_predictions.html
-|-- lab8_cannabis_predictions_README.md
+|-- cannabis_predictions.ipynb
+|-- cannabis_predictions.html
+|-- README.md
 |-- cannabis_full.csv
 |-- cannabis.csv
 |-- readme_assets/
@@ -165,7 +165,7 @@ compare/
 
 ## How to Run
 
-1. Open `lab8_cannabis_predictions.ipynb` in Jupyter Notebook.
+1. Open `cannabis_predictions.ipynb` in Jupyter Notebook.
 2. Make sure `cannabis_full.csv` is in the same folder as the notebook.
 3. Run the notebook cells in order.
 
